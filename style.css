@@ -16,7 +16,7 @@ body{
 #cross-menu ul li:not(:first-child) {
     margin-left: 62px;
     font-size: 16px;
-    padding: 25px 90px 25px 50px;
+    padding: 30px 90px 25px 50px;
     text-align: left;
     border: 1px solid #295A8E;
     border-top: 0;
@@ -52,14 +52,8 @@ i.fas{
     visibility: hidden;
 }
 
-/* #cross-menu li:hover i.fas{
+#cross-menu li:hover i.fas{
     position: relative;
     left: 60px;
     visibility: visible;
-} */
-/* #cross-menu ul li:nth-child(3):hover i.fas{
-    position: relative;
-    left: 60px;
-    visibility: visible;
-    top: 200px;
-} */
+}
